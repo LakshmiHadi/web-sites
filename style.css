@@ -134,6 +134,7 @@ nav{
     background: #fff;
     max-width: 24%;
     min-height: 200px;
+    z-index: 1;
 }
 .box-col a{
     font-size: 13px;

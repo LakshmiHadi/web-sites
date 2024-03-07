@@ -175,3 +175,26 @@ nav{
     gap: 10px;
     margin-top: 10px;
 }
+.products-slider-with-price .products::-webkit-scrollbar{
+    display: none;
+}
+.product-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    min-width: 210px;
+    background: #fbfbfb;
+}
+.product-card img{
+    width: 110px;
+    margin: 0 50px;
+}
+.product-0ffer p{
+    background: #be0b3b;
+    color: #fff;
+    display: inline-block;
+    padding: 2px 5px;
+    border-radius: 2px;
+    margin: 8px 0;
+    font-size: 13px;
+}

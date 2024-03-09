@@ -198,3 +198,17 @@ nav{
     margin: 8px 0;
     font-size: 13px;
 }
+.product-0ffer span{
+    color: #be0b3b;
+    font-weight: 500;
+    font-size: 12px;
+}
+.product-price{
+    color: gray;
+    font-size: 13px;
+}
+.product-card h4{
+    color: #525252;
+    font-size: 15px;
+    font-weight: 400;
+}

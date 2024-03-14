@@ -1,3 +1,1 @@
-Amazon clone
-products 
-cart
+
